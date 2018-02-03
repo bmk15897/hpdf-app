@@ -18,12 +18,12 @@ React-Native App   Readme-ReactNative.md   : - - - - - - - - - - - - - - - - - -
 * Use ` git clone (url) ` from _https://github.com/bmk15897/hpdf-app/_ Repository wherein the url for cloning will be provided i.e. _https://github.com/bmk15897/hpdf-app.git_ .
 * Once cloning gets over, Open the terminal/command_prompt.
 * Change directory to the project folder and enter into _\hpdf-app-master\microservices\App UI_
-*Open Android Studio and run a Android Virtual Device or connect a android phone with marshmallow or higher .
-*After successfully opening the Android Device.
-*Run the command
+* Open Android Studio and run a Android Virtual Device or connect a android phone with marshmallow or higher .
+* After successfully opening the Android Device.
+* Run the command
  `react-native run-android`  in the terminal/command_prompt.
-*After successful build the node.js server window will pop-up ,don’t close it .
-*Now the app must be installed on the android device and will start automatically.
+* After successful build the node.js server window will pop-up ,don’t close it .
+* Now the app must be installed on the android device and will start automatically.
 
 
 ### For detailed information follow the link.
