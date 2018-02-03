@@ -15,7 +15,7 @@ Android Virtual Device
 ## Instructions for running the App
 	
 Create a project folder on your machine and initialize git.
-Use ` git clone (url) ` from ~https://github.com/bmk15897/hpdf-app/~ Repository wherein the url for cloning will be provided i.e. ~https://github.com/bmk15897/hpdf-app.git~ .
+Use ` git clone (url) ` from _https://github.com/bmk15897/hpdf-app/_ Repository wherein the url for cloning will be provided i.e. _https://github.com/bmk15897/hpdf-app.git_ .
 Once cloning gets over, Open the terminal/command_prompt.
 Change directory to the project folder and enter into ~\hpdf-app-master\microservices\App UI~
 Open Android Studio and run a Android Virtual Device or connect a android phone with marshmallow or higher .
@@ -29,4 +29,4 @@ Now the app must be installed on the android device and will start automatically
 For detailed information follow the link.
 https://facebook.github.io/react-native/docs/getting-started.html#content 
 I followed this during setup of my app under which choose 
-~Building Projects With Native Code~.
+_Building Projects With Native Code_.
