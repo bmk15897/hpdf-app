@@ -13,14 +13,14 @@ export default class Home extends React.Component {
   openModal()
   {
     this.props.navigation.navigate('Command');
-    // console.log('Hey I am here');
+    console.log('Hey I am here');
   }
 
   componentDidMount()
   {
     this.search1.blur();
-    //console.log('Here');
-    //ToastAndroid.show('YO 1st Toast! , ...Welcome...',ToastAndroid.SHORT);
+    console.log('Here');
+    // ToastAndroid.show('YO 1st Toast! , ...Welcome...',ToastAndroid.SHORT);
   }
 
   // async _recordCommand(){
